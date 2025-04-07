@@ -5,7 +5,7 @@ Follow these steps to set up and run the project locally:
 
 ### Prerequisites
 
-- Flutter SDK (version >= 3.0.0)
+- Flutter SDK (version 3.29.2)
 - Firebase account (with a project created)
 - Android Studio / VS Code with Flutter support
 - Git
