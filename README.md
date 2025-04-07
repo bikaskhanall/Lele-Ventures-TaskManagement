@@ -17,3 +17,5 @@ Follow these steps to set up and run the project locally:
 ```bash
 git clone https://github.com/bikaskhanall/Lele-Ventures-TaskManagement
 cd task_management_app
+flutter pub get
+flutter run
