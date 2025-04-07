@@ -39,7 +39,8 @@ class TaskCard extends StatelessWidget {
           children: [
             Icon(Icons.task_alt, color: Colors.blueAccent.shade200, size: 20),
             const SizedBox(width: 12),
-            Expanded(
+            Flexible(
+              fit: FlexFit.loose,
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
